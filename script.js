@@ -1,9 +1,4 @@
 
-
-// --- IMPORTANT: GET YOUR FREE API KEY ---
-// 1. Go to Google AI Studio: https://aistudio.google.com/
-// 2. Click "Get API key" and create a new key.
-// 3. Copy the key and paste it here.
 const API_KEY = 'AIzaSyA-hdZ5GMHLXMgLlqtVizXOCpzg62EJHC8';
 
 
